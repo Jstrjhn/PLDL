@@ -9,6 +9,7 @@ exam = float(input("Enter final exam rating: "))
 final_grade = 0.30 * quizzes + 0.10 * research + 0.40 * exam + 0.20 * project
 
 # calculation
+
 if final_grade > 100:
     remark = "No grade should exceed 100!"
 elif 98 <= final_grade <= 100:
