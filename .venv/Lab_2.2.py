@@ -26,7 +26,7 @@ else:
     sss_contrib = 5800.00
     philhealth_contrib = 8800.00
 
-# formula
+# formulas
 deduction = sss_contrib + pagibig + philhealth_contrib
 net_income = gross - deduction
 

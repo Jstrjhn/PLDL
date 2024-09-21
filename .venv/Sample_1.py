@@ -6,7 +6,7 @@
 sum = 0
 product = 0
 
-#getting inputs for first number and second number value
+#getting input for first number and second number value
 
 first_number = int(input("Enter the value of the 1st number: "))
 second_number = int(input("Enter the value of the 2nd number: "))
