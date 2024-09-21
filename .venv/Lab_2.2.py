@@ -9,7 +9,7 @@ hours_per_day = float(input("Enter employee's number of working hours per day: "
 days_per_week = float(input("Enter employee's number of days per week: "))
 weeks_per_month = float(input("Enter employee's number of weeks per month: "))
 
-# formulaS
+# formula
 gross = hours_per_day * days_per_week * weeks_per_month * rate
 
 # calculations
