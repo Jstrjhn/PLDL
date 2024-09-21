@@ -1,4 +1,4 @@
-# gathering of input
+# gathering of inputs
 student_name = input("Enter student name: ")
 quizzes = float(input("Enter final quizzes rating: "))
 research = float(input("Enter final research/assignment rating: "))

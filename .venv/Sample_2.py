@@ -5,7 +5,7 @@ total_deduction = 0
 pagibig_contribution = 100
 name_of_employee = " "
 
-#inputting of value
+#inputting of values
 name_of_employee = input("Enter name of employee:")
 rate_per_hour = float(input("Enter employee's rate per hour:"))
 number_hours_per_day = float(input("Enter employee's working number of hours per day:"))
