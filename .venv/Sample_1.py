@@ -11,7 +11,7 @@ product = 0
 first_number = int(input("Enter the value of the 1st number: "))
 second_number = int(input("Enter the value of the 2nd number: "))
 
-#setting formula for the computation of sum and product
+#setting formula for the computation of sum and productS
 
 sum = first_number + second_number
 product = first_number * second_number

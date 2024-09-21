@@ -15,7 +15,7 @@ SSS_contribution = (float(input("Enter employee's SSS contribution:")))
 philheath_contribution = float(input("Enter employee's philhealth contribution:"))
 tax_contribution = float(input("Enter employee's tax contribution:"))
 
-#calculation for gross income, total deduction, net income
+#calculation for gross income, total deduction, net incomeS
 gross_income = rate_per_hour * number_hours_per_day * number_days_per_week * number_weeks_per_month
 total_deduction = SSS_contribution + philheath_contribution + tax_contribution + pagibig_contribution
 net_income = gross_income - total_deduction
